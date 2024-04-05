@@ -1,17 +1,16 @@
 
 <div align="center">
-
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://resources.chimhaha.net/article/1674895457215-hd50cvi7lxc.gif">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
+<img src="https://resources.chimhaha.net/article/1674895457215-hd50cvi7lxc.gif">
 </div>
 
 
 
 <div align="center">
-
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DongHwa the Running learner&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  
+## **DongHwa the Running learner**  
 
 </div>
+
 
 
 
