@@ -7,7 +7,7 @@
 
 <div align="center">
   
-## **DongHwa the Running learner**  
+## **Running learner**  
 
 </div>
 
